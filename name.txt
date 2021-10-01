@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-Aditya Rajesh Shamal Vedant Sawant
-=======
 Aditya Rajesh Shamal Sawant
 ABCD
->>>>>>> 22af33bfc648965feaa688f5ba24409055474d30
